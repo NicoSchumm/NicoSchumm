@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there, I'm Nico Schumm! 👋
 
-<!--
-**NicoSchumm/NicoSchumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+telegram linkedin
 
-Here are some ideas to get you started:
+🌱Right now I’m working as an intern for Frontend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks:
+
+Angular UI Libs Bootstrap UI Material UI
+
+🛠 This helps me work better
+
+Docker, GIT, GitLab, Jenkins, sourcetree Jira, Confluence
+
+📆 My ToDo's
